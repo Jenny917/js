@@ -1,5 +1,5 @@
 #!name=Youtube/Music
-#!desc=Suitable for Youtube & Youtube Music (IOS >= 15) LU:16/11/24
+#!desc=Suitable for Youtube & Youtube Music (IOS >= 15) LU:16/11/2024, 11:41:58 pm
 
 [Rule]
 AND,((DOMAIN-SUFFIX,googlevideo.com), (PROTOCOL,UDP)),REJECT
